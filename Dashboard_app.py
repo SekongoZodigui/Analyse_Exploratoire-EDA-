@@ -1,7 +1,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║   STUDENT PERFORMANCE IN PORTUGAL  ·  AMSE Mag1 2025-2026                  ║
-║   Author: SEKONGO Zodigui                ║
+║   Author: SEKONGO Zodigui  Mamadou              ║
 ║   Run :  python app.py   →   http://127.0.0.1:8051                         ║
 ║   Deps:  pip install dash dash-bootstrap-components plotly pandas           ║
 ║          openpyxl xlsxwriter statsmodels numpy                              ║
